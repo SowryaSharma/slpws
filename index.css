@@ -1,0 +1,17 @@
+#mainHead{
+  display:flex;
+  width:100vw;
+  justify-content:center;
+}
+.repo{
+  text-decoration:none;
+}
+.download{
+text-decoration:none;
+}
+.git{
+  display:flex;
+  width:100vw;
+  flex-wrap:wrap;
+  gap:10px;
+}
