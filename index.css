@@ -1,6 +1,9 @@
 body{
   background-color:black;
   color:white;
+  margin-right:10vw;
+  margin-right:10vw;
+  margin-top:20px;
 }
 #mainHead{
   display:flex;
