@@ -4,6 +4,10 @@ body{
   margin-right:10vw;
   margin-right:10vw;
   margin-top:20px;
+  width:90vw;
+}
+body a{
+  color:#3333ff
 }
 #mainHead{
   display:flex;
