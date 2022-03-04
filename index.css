@@ -1,3 +1,7 @@
+body{
+  background-color:black;
+  color:white;
+}
 #mainHead{
   display:flex;
   width:100vw;
